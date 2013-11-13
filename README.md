@@ -62,7 +62,7 @@ I find that the 30 day moving average is the most useful.  Yes, you should be co
 ## Y-Axis Formatting
 * The graph is most helpful if you set the Y-Axis (vertical axis) with minimum and maximum values tuned to your weight goals.  The max value should be your heaviest weight plus 5% or so.  The min value should be your realistic target weight minus 5%.  Don't get too far ahead of yourself!  It's better if you set a short term goal and then readjust the graph when you hit it.
 
-![Graph Settings](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/GraphAxisSettings.png "Graph Settings")
+![Graph Settings](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/GraphFormatAxisSettings1.png "Graph Settings")
 
 
 ## Tips
