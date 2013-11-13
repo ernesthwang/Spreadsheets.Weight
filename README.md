@@ -35,4 +35,15 @@ Enter your weight for the day in column B.  The column header is not labeled as 
 
 ## Weight Graph
 
-(coming soon)
+There's a basic graph that comes with this spreadsheet, but you need to tweak the settings to your personal preferences.
+
+![Weight Graph](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/GraphExample.png "Weight Graph")
+
+There are four lines graphed:
+* Daily Weight
+* 7 Day Moving Average
+* 30 Day Moving Average
+* 90 Day Moving Average
+
+I find that the 30 day moving average is the most useful.  Yes, you should be concerned if your weight jumps on a day-to-day basis, but your average weight over the past 30 days is the best indicator on how your weight mantenance goals are coming along.
+
