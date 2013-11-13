@@ -66,6 +66,6 @@ I find that the 30 day moving average is the most useful.  Yes, you should be co
 
 
 ## Tips
-* Get a Fitbit Aria scale!  I have one and it makes tracking your weight a breeze!
+* Get a [Fitbit Aria](http://www.fitbit.com/aria) scale!  I have one and it makes tracking your weight a breeze!
 * If you don't have access to this spreadsheet, email yourself your daily weight with your smartphone.
 * Make sure you adjust your chart to your needs.
