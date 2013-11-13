@@ -15,7 +15,7 @@ A simple spreadsheet for tracking your daily weight, with various columns to hel
 ### Initialize the Date Column (Column A)
 Column A contains the list of days that you track.  You should enter a row for every day starting with your earliest reading, even if you skip a day.
 
-If today is your first day weighing yourself, start with today's date!  Then fill in the date column for the next 100 days or so.  The easiest way to do this is to enter today's date in cell A3, enter tomorrow's date in cell A4, highlight them both and drag the black square in the lower right-hand corner of the selection downward.
+If today is your first day weighing yourself, start with today's date!  Then fill in the date column for the next 100 days or so.  The easiest way to do this is to enter today's date in cell A3, enter tomorrow's date in cell A4, highlight them both and drag the green square in the lower right-hand corner of the selection downward.
 
 ![Excel Drag Handle](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/ExcelCellDragHandle.png "Excel Drag Handle")
 
@@ -49,7 +49,7 @@ Enter your weight for the day in column B.  The column header is not labeled as 
 ## Weight Graph
 There's a basic graph that comes with this spreadsheet, but you need to tweak the settings to your personal preferences.
 
-![Weight Graph](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/GraphExample.png "Weight Graph")
+![Weight Graph](https://raw.github.com/ernesthwang/Spreadsheets.Weight/master/doc/images/GraphExample7Years.png "Weight Graph")
 
 There are four lines graphed:
 * Daily Weight
